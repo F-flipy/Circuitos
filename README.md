@@ -1,12 +1,15 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Circuito Simples</title>
+<title> Circuito Simples </title>
 </head>
 <body>
 
-<h1>T=Sensor de temperatura</h1>
+<h1>Sensor de temperatura</h1>
 <p>Circuito com sensor de temperatura, led, buzina, motor e arduino. Funcionamento: quando a temperatura fica maior ou igual a 30°C o led e a buzina são ativados para alertar e o motor é ativado para resfriar o ambiente.</p>
+
+</body>
+</html>
 
 // C++ code
 // Inicialização dos pinos 
@@ -51,6 +54,3 @@ void loop() {
 
   delay(2000); // Aguarda 2 segundos antes da próxima leitura
 }
-
-</body>
-</html>
