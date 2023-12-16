@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title><h1>Circuito Simples </h1></title>title>
+  <title><h1>Circuito Simples </h1></title>
 </head>
 <body>
 
