@@ -1,11 +1,11 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Circuito Simples </title>
+<title><h1>Circuito Simples </h1></title>
 </head>
 <body>
 
-<h1>Sensor de temperatura</h1>
+<h2>Sensor de temperatura</h2>
 <p>Circuito com sensor de temperatura, led, buzina, motor e arduino. Funcionamento: quando a temperatura fica maior ou igual a 30°C o led e a buzina são ativados para alertar e o motor é ativado para resfriar o ambiente.</p>
 
 </body>
